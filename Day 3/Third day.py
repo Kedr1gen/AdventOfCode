@@ -47,14 +47,6 @@ power = epsilon * gama
 print ("Power is %d" % power)
 #print (ones, epsilon_bin, gama_bin)
 
-##number = 
-##dec_number = int(number, 2)
-##print('The decimal conversion is:', dec_number)
-##
-### print ("Values are " + str(horizontal) + " " + str(depth))
-##print ("Values are h: %d and d: %d" % (horizontal, depth))
-##final = horizontal * depth
-##print ("Final number is %d." % final)
 
 f.close()
 
